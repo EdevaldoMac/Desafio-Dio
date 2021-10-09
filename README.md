@@ -1,2 +1,3 @@
 # Desafio-Dio
-Desafio do projeto sobre Git/GitHub
+### Desafio do projeto Git/GitHub do Bootcamp Impulso React Web Developer
+### Da <a href="https://digitalinnovation.one/" rel="nofollow">Digital Innovation One</a>.</p>
